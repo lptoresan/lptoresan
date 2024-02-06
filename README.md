@@ -4,7 +4,7 @@
 
 - Ever since I was little, I was fascinated by technology. Now, I'm making it my career as a developer. And with each line of code and groundbreaking project at UCS (Caxias do Sul University), my final year in computer science fuels my excitement for the future I'm building.
 - My journey began with C/C++, captivated by object-oriented magic of Java and data revelation of SQL.
-- 🌱 Now I’m currently learning **frontend frameworks, like React and Angular.
+- 🌱 Now I’m currently learning frontend frameworks, like React and Angular.
 
 - ⚡ Fun fact: I can code in my sleep (although the results wouldn't be pretty).
 
