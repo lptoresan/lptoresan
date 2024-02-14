@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luís Pedro Toresan Bet</h1>
-<h3 align="center">A passionate fullstack developer from Caxias do Sul, Brazil</h3>
+<h3 align="center">A passionate fullstack developer from Antônio Prado, Brazil</h3>
 
 
 - Ever since I was little, I was fascinated by technology. Now, I'm making it my career as a developer. And with each line of code and groundbreaking project at UCS (Caxias do Sul University), my final year in computer science fuels my excitement for the future I'm building.
