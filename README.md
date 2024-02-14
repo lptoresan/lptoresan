@@ -6,8 +6,6 @@
 - My journey began with C/C++, captivated by object-oriented magic of Java and data revelation of SQL.
 - 🌱 Now I’m currently learning frontend frameworks, like React and Angular.
 
-- ⚡ Fun fact: I can code in my sleep (although the results wouldn't be pretty).
-
 <p align="left">
 <a href="https://www.linkedin.com/in/lu%c3%ads-pedro-toresan-bet-35848221b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lu%c3%ads-pedro-toresan-bet-35848221b/" height="30" width="40" /></a>
 <a href="https://instagram.com/elepetoresan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="elepetoresan" height="30" width="40" /></a>
