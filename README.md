@@ -4,7 +4,7 @@
 
 - Ever since I was little, I was fascinated by technology. Now, I'm making it my career as a developer. And with each line of code and groundbreaking project at UCS (Caxias do Sul University), my final year in computer science fuels my excitement for the future I'm building.
 - My journey began with C/C++, captivated by object-oriented magic of Java and data revelation of SQL.
-- 🌱 Now I’m currently learning frontend frameworks, like React and Angular.
+- 🌱 Now I’m currently learning React.
 
 <p align="left">
 <a href="https://www.linkedin.com/in/lu%c3%ads-pedro-toresan-bet-35848221b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lu%c3%ads-pedro-toresan-bet-35848221b/" height="30" width="40" /></a>
